@@ -36,4 +36,4 @@ dynamic stack 10'000 size, pop time: 0.0007396\
 dynamic stack 100'000 size, pop time: 0.0074669\
 dynamic stack 1'000'000 size, pop time: 0.0735004\
 dynamic stack 10'000'000 size, pop time: 0.76033\
-dynamic stack 100'000'000 size, pop time: 7.78164\
+dynamic stack 100'000'000 size, pop time: 7.78164
