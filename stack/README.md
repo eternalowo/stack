@@ -2,12 +2,12 @@
 
 <h3>Time measures: </h3>
 
-static stack 10 size, push time: 7e-07  
-static stack 100 size, push time: 2.1e-06  
-static stack 1'000 size, push time: 1.7e-05  
-static stack 10'000 size, push time: 0.0001643
-static stack 100'000 size, push time: 0.0016619
-static stack 1'000'000 size, push time: 0.0172573
+static stack 10 size, push time: 7e-07\
+static stack 100 size, push time: 2.1e-06\
+static stack 1'000 size, push time: 1.7e-05\
+static stack 10'000 size, push time: 0.0001643\
+static stack 100'000 size, push time: 0.0016619\
+static stack 1'000'000 size, push time: 0.0172573\
 static stack 10'000'000 size, push time: 0.157774
 static stack 100'000'000 size, push time: 1.6085
 
